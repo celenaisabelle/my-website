@@ -241,6 +241,7 @@
 
 .main__content p {
     margin-top: 1rem;
+    margin-right: 1rem;
     font-size: 2rem;
     font-weight: 700;
     color: #fff;
@@ -292,8 +293,8 @@
 }
 
 #main__img {
-    height: 80%;
-    width: 80%;
+    height: 60%;
+    width: 60%;
 }
 
 /* Mobile Responsive */
